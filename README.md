@@ -2,7 +2,7 @@
 -Currently, I'm stuying Software Engineering at Universida Federal Do Ceará
 - 👀 I’m interested in Software Sngineering and Python
 - 🌱 I’m currently learning Python(O.O) and SQL
-- 💞️ I’m looking to collaborate on projects useful in daily situations
+- I’m looking to collaborate on projects useful in daily situations
 - 📫 How to reach me - alcantarapedro69@yahoo.com
 
 <!---
