@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alcantar0
+- 👋 Hi, I’m Pedro Henrique
 - Currently, I'm stuying Software Engineering at Universidade Federal Do Ceará
 - 👀 I’m interested in Software Engineering and Python
 - 🌱 I’m currently learning C, C++, Python, Django and SQL
